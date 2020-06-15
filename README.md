@@ -4,4 +4,4 @@
 
 # Be the hero
 
-Complete application developed during Semana Omnistack 11. Lectured by Diego Fernandos from Rocketsead
+Complete application developed during Semana Omnistack 11. Lectured by Diego Fernandos from Rocketseat
